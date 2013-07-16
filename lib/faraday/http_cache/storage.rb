@@ -1,4 +1,5 @@
 require 'digest/sha1'
+require 'active_support/core_ext/array/extract_options'
 require 'active_support/core_ext/class/attribute_accessors'
 require 'active_support/cache'
 require 'active_support/core_ext/hash/keys'
